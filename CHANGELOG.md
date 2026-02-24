@@ -1,5 +1,9 @@
 ## ASP.NET Core, Angular BFF using Microsoft Entra ID Changelog
 
+### 2026-02-24 2.0.2
+- Updated Angular 21.1.5
+- Updated Nuget packages
+
 ### 2025-12-07 2.0.1
 - Updated to Angular 21, bootstrap styles
 - Update Nuget packages
